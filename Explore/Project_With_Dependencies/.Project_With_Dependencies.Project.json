@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "8cS3q61r8e3hNebMFDcyiy",
+    "name" : "Project_With_Dependencies",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-09-11T20:46:53.068Z",
+  "objectRefs" : [ ]
+}
